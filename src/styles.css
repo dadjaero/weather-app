@@ -1,0 +1,25 @@
+h1,
+h2,
+h3 {
+  text-align: center;
+  padding: 5px;
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+a {
+  text-decoration: none;
+}
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: pink;
+  color: #fff;
+  border-radius: 10px;
+}
+.humid {
+  padding: 20px;
+}
+.elements {
+  left: 0px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
